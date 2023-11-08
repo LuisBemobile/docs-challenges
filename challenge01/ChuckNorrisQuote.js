@@ -8,15 +8,8 @@ const getQuote = () => {
 
     response.on('data', (response) => {
       data += response;
-    });
-
-    response.on('end', () => {
-      try {
-        const chuckNorrisJoke = JSON.parse(data).value;
-        console.log('Chuck Norris quote:', chuckNorrisJoke);
-      } catch (error) {
-        console.error('An error occurred when parsing the response:', error);
-      }
+      const chuckNorrisJoke = JSON.parse(data).value;
+      console.log('Chuck Norris quote:', chuckNorrisJoke);
     });
   });
 
