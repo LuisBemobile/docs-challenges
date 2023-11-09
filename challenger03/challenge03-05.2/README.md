@@ -1,6 +1,6 @@
 ### Planejamento
 
-1 - estudar com funciona Js vanilla e o módulo redline do Node.js.
+1 - estudar com funciona Js vanilla e o módulo readline do Node.js.
 </br>
 2 - setar arrays para armazenar todo, doing e done.
 </br>
