@@ -1,6 +1,6 @@
 ### Planejamento
 
-1 - estudar com funciona Js vanilla e o módulo redline do Node.js. ( de 1 a 2 horas)
+1 - estudar com funciona Js vanilla e o módulo readline do Node.js. ( de 1 a 2 horas)
 </br>
 2 - setar arrays para armazenar todo, doing e done. (5 minutos)
 </br>
